@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-/**
- * main - Entry point 
+/** main - Entry point 
  * Description: 'the program's description'
  * Return: Always 0 (Success)
  */
