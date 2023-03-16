@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-/*
+/**
  *smth smth 
 */
 int main(void)
