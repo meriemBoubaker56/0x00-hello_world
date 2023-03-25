@@ -1,15 +1,17 @@
 #include <stdio.h>
+
 /**
- * main : entry poiny
- * Return : always 0 success
- */
-int main(void)
+ * main - Entry poiny
+* Return - Always 0 (Success)
+*/
+
+int main (void)
 {
 int i;
-for(i=97; i<123; i++)
+for (i = 97; i < 123; i++)
 {
-putchar(i);
+putchar (i);
 }
-putchar('\n');
+putchar ('\n');
 return (0);
 }
