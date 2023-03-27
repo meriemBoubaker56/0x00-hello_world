@@ -1,7 +1,7 @@
 /**
 * _strlen - swaps the values of two integers
 * @s: character
-* Return - int
+* Return - the lenghth of s
 */
 int _strlen(char *s)
 {
@@ -10,5 +10,5 @@ while (s[i] != '\0')
 {
 i++;
 }
-return i;
+ return (i);
 }
