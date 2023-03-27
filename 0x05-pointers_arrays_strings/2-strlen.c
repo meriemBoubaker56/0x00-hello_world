@@ -1,7 +1,8 @@
 /**
-* _strlen - swaps the values of two integers
-* @s: character
-* Return - the lenghth of s
+* _strlen - returns the length of a string
+* @s: string to evaluate
+*
+* Return: the length of the string
 */
 int _strlen(char *s)
 {
