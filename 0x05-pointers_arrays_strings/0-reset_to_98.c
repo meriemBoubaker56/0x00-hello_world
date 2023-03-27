@@ -1,6 +1,6 @@
 /**
 * reset_to_98 - change the point
-* @parameter : *n is pointer of n
+* Description: 'the program's description'
 * Return : n = 98
 */
 void reset_to_98(int *n)
