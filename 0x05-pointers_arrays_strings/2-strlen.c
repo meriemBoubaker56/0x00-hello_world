@@ -1,14 +1,14 @@
 /**
- * _strlen - swaps the values of two integers
- * @s: character
- */
+* _strlen - swaps the values of two integers
+* @s: character
+* Return - int 
+*/
 int _strlen(char *s)
 {
-  int i = 0;
-    
-  while(s[i] != '\0')
+int i = 0;
+while(s[i] != '\0')
 {
-  i++;
+i++;
 }
-  return i;
+return i;
 }
